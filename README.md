@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eklawya
+- 👋 Hi, I’m @Eklawaya
 - 👀 I’m interested in Full stack devlopment
 - 🌱 I’m currently learning mongoDB,java,Python
 - 💞️ I’m looking to collaborate on ...
